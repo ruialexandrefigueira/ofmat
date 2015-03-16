@@ -1,2 +1,2 @@
-# ofmat
+# OfMaT
 OpenFlow Management Tool
